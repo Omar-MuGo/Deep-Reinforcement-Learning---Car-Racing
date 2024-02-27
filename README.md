@@ -5,6 +5,7 @@
 This repository contains a solution to the OpenAI Gym environment "Racing Car v1". The goal of this project is to implement an agent capable of efficiently navigating a race track in the OpenAI Gym simulation environment.
 
 ![Racing Car v1](https://www.gymlibrary.dev/_images/car_racing.gif)
+
 Source: https://www.gymlibrary.dev/environments/box2d/car_racing/
 
 
