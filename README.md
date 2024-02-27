@@ -45,9 +45,9 @@ The plot below shows the reward obtained throughout all the episodes the agent u
 Below, it is possible to see the agent's progress throghout the training process.
 
 
-Open in YouTube
+Open in YouTube:
 
-[![Racing Car v1](https://www.gymlibrary.dev/_images/car_racing.gif)](https://www.youtube.com/watch?v=Ye1y3uwR9ko)
+[![Racing Car v1](https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/training.gif)](https://youtu.be/C4P4RTBjbjs)
 
 
 ## Future Work
