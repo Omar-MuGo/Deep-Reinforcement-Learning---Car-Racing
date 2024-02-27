@@ -44,8 +44,11 @@ The plot below shows the reward obtained throughout all the episodes the agent u
 
 Below, it is possible to see the agent's progress throghout the training process.
 
-![Racing Car v1](https://www.gymlibrary.dev/_images/car_racing.gif)
-Source: https://www.gymlibrary.dev/environments/box2d/car_racing/
+
+Open in YouTube
+
+[![Racing Car v1](https://www.gymlibrary.dev/_images/car_racing.gif)](https://www.youtube.com/watch?v=Ye1y3uwR9ko)
+
 
 ## Future Work
 - Fine-tuning convolutional neural network architecture to potentially improve performance. Consider adding additional inputs to the network e.g. the action taken in the previous timestep.
