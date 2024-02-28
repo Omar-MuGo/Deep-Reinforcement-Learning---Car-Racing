@@ -44,10 +44,10 @@ The plot below shows the reward obtained throughout all the episodes the agent u
 
 Below, it is possible to see the agent's progress throghout the training process.
 
-![Training](https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/agent_reward.png)
+<img src="https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/agent_reward.png" alt="Training process" width="300" height="200" />
 
-
-Open in YouTube:
+## Demo
+A video of the training process is shown below.
 
 [![Racing Car v1](https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/training.gif)](https://youtu.be/C4P4RTBjbjs)
 
