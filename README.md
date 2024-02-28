@@ -47,7 +47,7 @@ Below, it is possible to see the agent's progress throghout the training process
 <img src="https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/agent_reward.png" alt="Training process" width="600" height="400" />
 
 ## Demo
-A video of the training process is shown below.
+A video of the training process is available [here](https://youtu.be/C4P4RTBjbjs).
 
 [![Racing Car v1](https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/training.gif)](https://youtu.be/C4P4RTBjbjs)
 
