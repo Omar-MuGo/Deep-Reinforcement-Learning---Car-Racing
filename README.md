@@ -2,7 +2,9 @@
 
 
 ## Overview
-This repository contains a solution to the OpenAI Gym environment "Racing Car v2". The goal of this project is to implement an agent capable of efficiently navigating a race track in the OpenAI Gym simulation environment.
+This repository contains a solution to the OpenAI Gym environment "Racing Car v2". 
+
+The goal of this project is to implement an agent capable of efficiently navigating a race track in the OpenAI Gym simulation environment.
 
 <img src="https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/training.gif" alt="Training process" width="600" height="400" />
 
