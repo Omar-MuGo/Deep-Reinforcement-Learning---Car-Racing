@@ -4,10 +4,9 @@
 ## Overview
 This repository contains a solution to the OpenAI Gym environment "Racing Car v2". The goal of this project is to implement an agent capable of efficiently navigating a race track in the OpenAI Gym simulation environment.
 
-![Racing Car v1](https://www.gymlibrary.dev/_images/car_racing.gif)
+[![Racing Car v1](https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/training.gif)](https://youtu.be/C4P4RTBjbjs)
 
-Source: https://www.gymlibrary.dev/environments/box2d/car_racing/
-
+Watch the demo [here](https://youtu.be/C4P4RTBjbjs).
 
 ## Environment Description
 The Racing Car v2 environment simulates a car racing track. The agent controls a car and must navigate through the track while avoiding obstacles and completing the course as quickly as possible.
@@ -45,12 +44,6 @@ The plot below shows the reward obtained throughout all the episodes the agent u
 Below, it is possible to see the agent's progress throghout the training process.
 
 <img src="https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/agent_reward.png" alt="Training process" width="600" height="400" />
-
-## Demo
-A video of the training process is available [here](https://youtu.be/C4P4RTBjbjs).
-
-[![Racing Car v1](https://raw.githubusercontent.com/Omar-MuGo/Deep-Reinforcement-Learning---Car-Racing/master/img/training.gif)](https://youtu.be/C4P4RTBjbjs)
-
 
 ## Future Work
 - Fine-tuning convolutional neural network architecture to potentially improve performance. Consider adding additional inputs to the network e.g. the action taken in the previous timestep.
